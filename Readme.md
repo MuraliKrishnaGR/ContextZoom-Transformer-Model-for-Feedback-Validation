@@ -1,4 +1,4 @@
-# My Zoom: A Transformer-Based Model for Contextual Feedback Validation
+# ContextZoom: Transformer Model for Feedback Validation
 
 ## Overview
 
