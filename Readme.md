@@ -82,8 +82,5 @@ Run the app:
 streamlit run app.py
 ```
 
-## Prediction with Custom Threshold
-The model allows threshold-based classification:
-
 
 
