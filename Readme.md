@@ -82,5 +82,6 @@ Run the app:
 streamlit run app.py
 ```
 
+© 2025 MuraliKrishnaGR. All rights reserved.
 
 
